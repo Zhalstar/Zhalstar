@@ -27,9 +27,9 @@
 
 <p align="center">
   
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Zhalslar\&show_icons=true\&theme=radical\&include_all_commits=true\&count_private=true\&hide_border=true\&exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home,Zhalslar.github.io"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zhalstar&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
   
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zhalslar\&layout=compact\&langs_count=8\&theme=radical\&hide_border=true\&exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home,Zhalslar.github.io"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhalstar&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home,Zhalstar.github.io"/>
   
 </p>
 
