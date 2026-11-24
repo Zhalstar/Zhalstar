@@ -5,13 +5,12 @@
     
 
 
-![爱发电](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat\&labelColor=444444\&logoSize=auto)
-
-![微信打赏](https://img.shields.io/badge/打赏-微信-46ec91?style=flat\&labelColor=444444\&logoSize=auto)
-
-![B站](https://img.shields.io/badge/Bilibili-B站-8643e9?style=flat\&labelColor=444444\&logoSize=auto)
-
-![联系方式](https://img.shields.io/badge/联系方式-QQ群-e07070?style=flat\&labelColor=444444\&logoSize=auto)
+<p>
+  <img alt="爱发电" src="https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&amp;labelColor=444444&amp;logoSize=auto" />
+  <img alt="微信打赏" src="https://img.shields.io/badge/打赏-微信-46ec91?style=flat&amp;labelColor=444444&amp;logoSize=auto" />
+  <img alt="B站" src="https://img.shields.io/badge/Bilibili-B站-8643e9?style=flat&amp;labelColor=444444&amp;logoSize=auto" />
+  <img alt="联系方式" src="https://img.shields.io/badge/联系方式-QQ群-e07070?style=flat&amp;labelColor=444444&amp;logoSize=auto" />
+</p>
 
     
 
